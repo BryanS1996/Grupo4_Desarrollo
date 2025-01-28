@@ -1,33 +1,31 @@
 # Grupo4_Desarrollo
 
-### Proyecto: Gestión de Tareas con FastAPI, PostgreSQL y Docker
+# Delimind
 
-Este proyecto es una API desarrollada con **FastAPI** para gestionar tareas (to-do list), utilizando **PostgreSQL** como base de datos y **Docker** para contenerizar los servicios. Además, se gestiona el control de versiones y colaboración a través de **GitHub**.
+**Delimind** es una plataforma web inteligente que utiliza inteligencia artificial para recomendar los mejores platos de restaurantes en Quito, basándose en calidad, precio y ubicación. Este proyecto busca ofrecer a los usuarios una experiencia gastronómica personalizada y única, conectándolos con las mejores opciones gastronómicas de la ciudad.
 
----
+## 🚀 Características
 
-## **Características**
-- API RESTful con endpoints para:
-  - Crear tareas.
-  - Leer tareas.
-  - Actualizar tareas.
-  - Eliminar tareas.
-- Conexión con **PostgreSQL** para persistencia de datos.
-- Orquestación de contenedores con **Docker Compose**.
-- Uso de **GitHub** para el control de versiones y colaboración.
+- Recomendación de platos mediante IA (API de OpenAI).
+- Filtros avanzados por precio, calidad y ubicación.
+- Sistema de búsqueda personalizada.
+- Integración con mapas para localizar restaurantes cercanos.
+- Interfaz moderna y responsiva creada con React.
 
----
+## 🛠️ Tecnologías Utilizadas
 
-## **Requisitos**
-Antes de comenzar, asegúrate de tener instalado lo siguiente:
+### Frontend
+- **React**: Para construir una interfaz de usuario interactiva y fácil de usar.
+- **React Router**: Para la navegación entre páginas.
+- **Axios**: Para consumir la API.
 
-- **Python 3.9 o superior** (para desarrollo local).
-- **Docker** y **Docker Compose** (para ejecutar los contenedores).
-- **Git** (para clonar y manejar el repositorio).
-- **PostgreSQL** (si no usas Docker).
+### Backend
+- **Skarway (en evaluación)**: Se está considerando usar la nube de infraestructura de Skarway para alojar y ejecutar los servicios del backend.
 
----
+### APIs
+- **OpenAI API**: Para el motor de recomendación basado en IA.
+- **Google Maps API**: Para geolocalización y búsqueda de restaurantes cercanos.
 
-## **Estructura del Proyecto**
+## 📂 Estructura del Proyecto
 
 
