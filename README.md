@@ -52,13 +52,14 @@ Delimind/ │ ├── frontend/ # Código fuente del frontend (React) │ ├�
 El backend está en construcción y se evaluará si se implementa en la nube de Skarway. Las instrucciones específicas se incluirán en futuras actualizaciones.
 
 📋 Roadmap
- Diseño inicial del frontend.
- Implementación del motor de recomendaciones con OpenAI.
- Desarrollo del backend.
- Integración con Skarway o alternativas de infraestructura en la nube.
- Implementación de filtros avanzados y mapas.
- Sistema de calificaciones y reseñas de usuarios.
-🤝 Contribuciones
+    Diseño inicial del frontend.
+    Implementación del motor de recomendaciones con OpenAI.
+    Desarrollo del backend.
+    Integración con Skarway o alternativas de infraestructura en la nube.
+    Implementación de filtros avanzados y mapas.
+    Sistema de calificaciones y reseñas de usuarios.
+ 
+## 🤝 Contribuciones
 -Kevin Amaguaña
 -Kenny Cisneros
 -Bryan Chileno
