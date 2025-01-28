@@ -28,7 +28,20 @@
 
 ## 📂 Estructura del Proyecto
 
-Delimind/ │ ├── frontend/ # Código fuente del frontend (React) │ ├── public/ # Archivos estáticos │ ├── src/ │ ├── components/ # Componentes reutilizables │ ├── pages/ # Páginas principales │ ├── services/ # Servicios (e.g., consumo de API) │ └── App.js # Componente principal │ ├── backend/ # Carpeta del backend (en construcción) │ └── README.md # Documentación del proyecto
+Delimind/
+│
+├── frontend/            # Código fuente del frontend (React)
+│   ├── public/          # Archivos estáticos
+│   ├── src/
+│       ├── components/  # Componentes reutilizables
+│       ├── pages/       # Páginas principales
+│       ├── services/    # Servicios (e.g., consumo de API)
+│       └── App.js       # Componente principal
+│
+├── backend/             # Carpeta del backend (en construcción)
+│
+└── README.md            # Documentación del proyecto
+
 
 
 ## 💻 Instalación y Configuración
