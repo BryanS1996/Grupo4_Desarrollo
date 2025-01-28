@@ -49,7 +49,7 @@ Delimind/
 ### Frontend
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/delimind.git
+   git clone https://github.com/BryanS1996/delimind.git
    cd delimind/frontend
 2. Instala las dependencias:
    npm install
